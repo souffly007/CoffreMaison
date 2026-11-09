@@ -2,4 +2,7 @@
 /.gradle/
 /app/build/
 /app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
-/build/
+/build/*.apk
+*.aab
+*.jks
+*.keystore
